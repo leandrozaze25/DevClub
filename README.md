@@ -18,32 +18,5 @@ Este é um projeto de vitrine de produtos com carrossel animado, desenvolvido pa
 
 ## Como rodar o projeto
 
-1. Clone este repositório:
-   ```sh
-   git clone https://github.com/Leandrozaze25/DevClub.git
-   ```
-2. Abra a pasta no VS Code.
-3. Certifique-se de que a pasta `img` contém as imagens necessárias.
-4. Abra o arquivo `index.html` em seu navegador.
-
-## Estrutura de Pastas
-
-```
-projeto-treinamento/
-│
-├── img/
-│   ├── apple-watch.png
-│   ├── air-pods.png
-│   └── vision-pro.png
-├── index.html
-├── styles.css
-└── scrips.js
-```
-
-## Autor
-
-Leandro
-
----
-
-Projeto criado para fins
+  https://leandrozaze25.github.io/DevClub/
+ 
